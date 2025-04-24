@@ -1,0 +1,276 @@
+{
+    "retcode": 0,
+    "message": "OK",
+    "data": {
+        "page": {
+            "id": "1994",
+            "name": "甲級寶玨",
+            "desc": "兩塊玉石拼成的精緻玉珮。",
+            "icon_url": "https://bbs.hoyolab.com/hoyowiki/picture/weapon/甲级宝珏.png",
+            "header_img_url": "",
+            "modules": [
+                {
+                    "name": "屬性",
+                    "is_poped": false,
+                    "components": [
+                        {
+                            "component_id": "baseInfo",
+                            "layout": "",
+                            "data": {
+                                "list": [
+                                    { "key": "名稱", "value": ["甲級寶玨"], "id": "baseInfo2938" },
+                                    { "key": "類型", "value": ["法器"], "id": "baseInfo96464" },
+                                    { "key": "副屬性", "value": ["暴擊率"], "id": "baseInfo74312" },
+                                    {
+                                        "key": "奔襲戰術",
+                                        "value": [
+                                            "<p>擊敗敵人後的15秒內，移動速度和攻擊力提升<span style=\"color: #37FFFF\">12%/14%/16%/18%/20%</span>。</p>"
+                                        ],
+                                        "id": "baseInfo32531"
+                                    },
+                                    { "key": "來源", "value": ["<p><span>寶箱獲得</span></p>"], "id": "baseInfo4203" }
+                                ]
+                            },
+                            "style": ""
+                        }
+                    ],
+                    "id": "8",
+                    "is_customize_name": false,
+                    "is_abstract": false,
+                    "is_show_switch": false,
+                    "switch": false,
+                    "desc": "",
+                    "repeated": false,
+                    "is_submodule": false,
+                    "origin_module_id": "0",
+                    "without_border": false,
+                    "can_delete": false,
+                    "is_hidden": false,
+                    "rich_text_editing": false
+                },
+                {
+                    "name": "突破",
+                    "is_poped": false,
+                    "components": [
+                        {
+                            "component_id": "ascension",
+                            "layout": "",
+                            "data": {
+                                "list": [
+                                    {
+                                        "key": "Lv.1",
+                                        "combatList": [
+                                            { "key": "", "values": ["突破前攻擊力", "突破後攻擊力", "暴擊率"] },
+                                            { "key": "", "values": ["-", "40", "3.4%"] }
+                                        ],
+                                        "materials": null,
+                                        "id": "ascension14848"
+                                    },
+                                    {
+                                        "key": "Lv.20",
+                                        "combatList": [
+                                            { "key": "", "values": ["突破前攻擊力", "突破後攻擊力", "暴擊率"] },
+                                            { "key": "", "values": ["102", "121", "6.0%"] }
+                                        ],
+                                        "materials": [
+                                            { "ep_id": 1725, "amount": 2 },
+                                            { "ep_id": 1727, "amount": 2 },
+                                            { "ep_id": 778, "amount": 1 }
+                                        ],
+                                        "id": "ascension90807"
+                                    },
+                                    {
+                                        "key": "Lv.40",
+                                        "combatList": [
+                                            { "key": "", "values": ["突破前攻擊力", "突破後攻擊力", "暴擊率"] },
+                                            { "key": "", "values": ["187", "207", "8.8%"] }
+                                        ],
+                                        "materials": [
+                                            { "ep_id": 1722, "amount": 2 },
+                                            { "ep_id": 1727, "amount": 8 },
+                                            { "ep_id": 778, "amount": 5 }
+                                        ],
+                                        "id": "ascension13666"
+                                    },
+                                    {
+                                        "key": "Lv.50",
+                                        "combatList": [
+                                            { "key": "", "values": ["突破前攻擊力", "突破後攻擊力", "暴擊率"] },
+                                            { "key": "", "values": ["239", "259", "10.1%"] }
+                                        ],
+                                        "materials": [
+                                            { "ep_id": 1722, "amount": 4 },
+                                            { "ep_id": 1728, "amount": 4 },
+                                            { "ep_id": 466, "amount": 4 }
+                                        ],
+                                        "id": "ascension5398"
+                                    },
+                                    {
+                                        "key": "Lv.60",
+                                        "combatList": [
+                                            { "key": "", "values": ["突破前攻擊力", "突破後攻擊力", "暴擊率"] },
+                                            { "key": "", "values": ["292", "311", "11.5%"] }
+                                        ],
+                                        "materials": [
+                                            { "ep_id": 1724, "amount": 2 },
+                                            { "ep_id": 1728, "amount": 8 },
+                                            { "ep_id": 466, "amount": 6 }
+                                        ],
+                                        "id": "ascension61297"
+                                    },
+                                    {
+                                        "key": "Lv.70",
+                                        "combatList": [
+                                            { "key": "", "values": ["突破前攻擊力", "突破後攻擊力", "暴擊率"] },
+                                            { "key": "", "values": ["344", "363", "12.9%"] }
+                                        ],
+                                        "materials": [
+                                            { "ep_id": 1724, "amount": 4 },
+                                            { "ep_id": 1726, "amount": 6 },
+                                            { "ep_id": 636, "amount": 4 }
+                                        ],
+                                        "id": "ascension5165"
+                                    },
+                                    {
+                                        "key": "Lv.80",
+                                        "combatList": [
+                                            { "key": "", "values": ["突破前攻擊力", "突破後攻擊力", "暴擊率"] },
+                                            { "key": "", "values": ["396", "415", "14.2%"] }
+                                        ],
+                                        "materials": [
+                                            { "ep_id": 1723, "amount": 3 },
+                                            { "ep_id": 1726, "amount": 12 },
+                                            { "ep_id": 636, "amount": 8 }
+                                        ],
+                                        "id": "ascension70070"
+                                    },
+                                    {
+                                        "key": "Lv.90",
+                                        "combatList": [
+                                            { "key": "", "values": ["突破前攻擊力", "突破後攻擊力", "暴擊率"] },
+                                            { "key": "", "values": ["448", "-", "15.6%"] }
+                                        ],
+                                        "materials": null,
+                                        "id": "ascension48960"
+                                    }
+                                ]
+                            },
+                            "style": ""
+                        }
+                    ],
+                    "id": "9",
+                    "is_customize_name": false,
+                    "is_abstract": false,
+                    "is_show_switch": false,
+                    "switch": false,
+                    "desc": "",
+                    "repeated": false,
+                    "is_submodule": false,
+                    "origin_module_id": "0",
+                    "without_border": false,
+                    "can_delete": false,
+                    "is_hidden": false,
+                    "rich_text_editing": false
+                }
+            ],
+            "filter_values": {
+                "weapon_rarity": {
+                    "values": ["三星"],
+                    "value_types": [
+                        {
+                            "id": "695",
+                            "value": "三星",
+                            "mi18n_key": "filter_695",
+                            "icon": "",
+                            "enum_string": "3"
+                        }
+                    ],
+                    "key": {
+                        "key": "weapon_rarity",
+                        "text": "品質",
+                        "values": [],
+                        "mi18n_key": "hoyowikihoyowiki.filter_key_weapon_rarity",
+                        "is_multi_select": false,
+                        "id": "4",
+                        "is_hidden": false,
+                        "updated_at": "1711524197"
+                    }
+                },
+                "weapon_type": {
+                    "values": ["法器"],
+                    "value_types": [
+                        {
+                            "id": "442",
+                            "value": "法器",
+                            "mi18n_key": "filter_442",
+                            "icon": "",
+                            "enum_string": ""
+                        }
+                    ],
+                    "key": {
+                        "key": "weapon_type",
+                        "text": "武器",
+                        "values": [],
+                        "mi18n_key": "hoyowikihoyowiki.filter_key_weapon_type",
+                        "is_multi_select": false,
+                        "id": "3",
+                        "is_hidden": false,
+                        "updated_at": "1711524197"
+                    }
+                },
+                "weapon_property": {
+                    "values": ["暴擊率"],
+                    "value_types": [
+                        {
+                            "id": "170",
+                            "value": "暴擊率",
+                            "mi18n_key": "filter_170",
+                            "icon": "",
+                            "enum_string": ""
+                        }
+                    ],
+                    "key": {
+                        "key": "weapon_property",
+                        "text": "副屬性",
+                        "values": [],
+                        "mi18n_key": "hoyowikihoyowiki.filter_key_weapon_property",
+                        "is_multi_select": false,
+                        "id": "2",
+                        "is_hidden": false,
+                        "updated_at": "1711524197"
+                    }
+                }
+            },
+            "menu_id": "4",
+            "menu_name": "武器",
+            "version": "1673346995",
+            "langs": [],
+            "template_layout": null,
+            "edit_lock_status": "Unlock",
+            "correct_lock_status": "Unlock",
+            "menus": [],
+            "template_id": "63c64a474f2f85724dec9204",
+            "ext": {
+                "fe_ext": "",
+                "post_ext": {
+                    "post_id": "",
+                    "post_user_name": "",
+                    "post_time": "0",
+                    "post_avatar_url": "",
+                    "url": ""
+                },
+                "server_ext": "",
+                "personalized_color": "",
+                "scrolling_text": "",
+                "corner_mark": "None"
+            },
+            "alias_name": "",
+            "lang": "",
+            "beta": false,
+            "page_type": "Default",
+            "menu_style": "",
+            "status": "Online",
+            "enable_staff_online": false
+        }
+    }
+}
